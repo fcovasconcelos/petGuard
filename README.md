@@ -60,13 +60,21 @@ PetGuard/
 Crie um arquivo `.env` na **raiz do backend** com base no `.env.example`:
 
 PORT=5000
+
 JWT_SECRET=sua_chave_jwt
+
 DB_HOST=localhost
+
 DB_PORT=5432
+
 DB_USER=postgres
+
 DB_PASS=sua_senha
+
 DB_NAME=petguard
+
 EMAIL_USER=seuemail@gmail.com
+
 EMAIL_PASS=sua_senha_de_aplicativo
 
 ### 🔑 Gerar JWT_SECRET (opcional, recomendado)
