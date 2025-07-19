@@ -163,9 +163,3 @@ dist, build, etc.
 Separação de responsabilidades entre controllers, rotas e modelos
 
 Código limpo, com ESLint configurado para React
-
-🤝 Contribuição
-Sinta-se livre para contribuir com melhorias ou sugestões. Basta:
-
-git clone https://github.com/seu-usuario/petguard.git
-git checkout -b feature/nova-feature
