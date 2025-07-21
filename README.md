@@ -100,7 +100,7 @@ npm install
 psql -U postgres -c "CREATE DATABASE petguard;"
 
 # 4. Execute as migrations com Sequelize
-npx sequelize-cli db:migrate
+npx sequelize-cli db:migrate ou npx sequelize-cli db:migrate --config config/database.js
 
 # 5. Inicie o servidor
 node server.js
